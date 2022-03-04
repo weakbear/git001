@@ -1,0 +1,9 @@
+■git
+1.https://github.com/
+2.저장소
+3.비번 인증키 > 인증서 붙여넣기
+4.이클립스 연동 - 프로젝트 만들기
+5.[window] - [show View] - [other] - [git] - Git Responsotories
+6.[Git Responsotories] clone a git espository
+7.프로젝트 선택후 - 오른쪽 마우스 - team - share project / 저장소 선택
+8.데이터 수정후 - team -commit
